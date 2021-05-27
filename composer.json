@@ -1,9 +1,9 @@
 {
-    "name": "encore/laravel-admin",
-    "description": "laravel admin",
+    "name": "la998/la-admin",
+    "description": "custom from laravel admin,for myself!",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
-    "homepage": "https://github.com/z-song/laravel-admin",
+    "homepage": "https://github.com/la998/la-admin",
     "license": "MIT",
     "authors": [
         {
