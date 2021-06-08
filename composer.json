@@ -1,9 +1,9 @@
 {
-    "name": "la998/la-admin",
+    "name": "la998/laravel-backend",
     "description": "custom from laravel admin,for myself!",
     "type": "library",
     "keywords": ["laravel", "admin", "grid", "form"],
-    "homepage": "https://github.com/la998/la-admin",
+    "homepage": "https://github.com/la998/laravel-backend",
     "license": "MIT",
     "authors": [
         {
